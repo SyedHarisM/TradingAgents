@@ -419,3 +419,6 @@ Please reference our work if you find *TradingAgents* provides you with some hel
       url={https://arxiv.org/abs/2412.20138}, 
 }
 ```
+
+## Daily automation and local dashboard
+See [LOCAL_AUTOMATION_GUIDE.md](LOCAL_AUTOMATION_GUIDE.md) for setup, usage, Windows scheduling, and demo instructions.
